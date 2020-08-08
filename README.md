@@ -10,5 +10,6 @@
 |4.  |Power of Four         |Arithmetic         |[Link](https://leetcode.com/explore/challenge/card/august-leetcoding-challenge/549/week-1-august-1st-august-7th/3412/)|
 |5.  |Add and Search Word   |Trie               |[Link](https://leetcode.com/explore/challenge/card/august-leetcoding-challenge/549/week-1-august-1st-august-7th/3413/)|
 |6.  |Find All Duplicates in an Array|Array     |[Link](https://leetcode.com/explore/challenge/card/august-leetcoding-challenge/549/week-1-august-1st-august-7th/3414/)|
-
+|7.  |Vertical Order Traversal of a Binary Tree |Binary Tree|[Link](https://leetcode.com/explore/challenge/card/august-leetcoding-challenge/549/week-1-august-1st-august-7th/3415/)|
+|8.  |Path Sum III        |Tree                 |[Link](https://leetcode.com/explore/challenge/card/august-leetcoding-challenge/550/week-2-august-8th-august-14th/3417/)|
 
