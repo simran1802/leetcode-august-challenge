@@ -16,3 +16,4 @@
 |10. |Excel Sheet Column Number| String         |[Link](https://leetcode.com/explore/challenge/card/august-leetcoding-challenge/550/week-2-august-8th-august-14th/3419/)|
 |11. |H-Index             |Array                |[Link](https://leetcode.com/explore/challenge/card/august-leetcoding-challenge/550/week-2-august-8th-august-14th/3420/)|
 |12. |Pascal's Triangle II|Pattern         |[Link](https://leetcode.com/explore/challenge/card/august-leetcoding-challenge/550/week-2-august-8th-august-14th/3421/)|
+|13. |Iterator for Combination|Strings/Vectors|[Link](https://leetcode.com/explore/challenge/card/august-leetcoding-challenge/550/week-2-august-8th-august-14th/3422/)|
