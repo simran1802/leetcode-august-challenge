@@ -20,3 +20,4 @@
 |14. |Longest Palindrome|Dynamic Programming|[Link](https://leetcode.com/explore/challenge/card/august-leetcoding-challenge/550/week-2-august-8th-august-14th/3423/)|
 |15. |Non-overlapping Intervals|Greedy Algorithm|[Link](https://leetcode.com/explore/challenge/card/august-leetcoding-challenge/551/week-3-august-15th-august-21st/3425/)|
 |16. |Best Time to Buy and Sell Stock III|Array|[Link](https://leetcode.com/explore/challenge/card/august-leetcoding-challenge/551/week-3-august-15th-august-21st/3426/)|
+|17. |Distribute Candies to People|Vectors|[Link](https://leetcode.com/explore/challenge/card/august-leetcoding-challenge/551/week-3-august-15th-august-21st/3427/)|
