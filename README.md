@@ -23,3 +23,4 @@
 |17. |Distribute Candies to People|Vectors|[Link](https://leetcode.com/explore/challenge/card/august-leetcoding-challenge/551/week-3-august-15th-august-21st/3427/)|
 |18.|Numbers With Same Consecutive Differences|Vectors|[Link](https://leetcode.com/explore/challenge/card/august-leetcoding-challenge/551/week-3-august-15th-august-21st/3428/)|
 |19.|Goat Latin|Strings|[Link](https://leetcode.com/explore/challenge/card/august-leetcoding-challenge/551/week-3-august-15th-august-21st/3429/)|
+|20.|Reorder List|Linked List|[Link](https://leetcode.com/explore/challenge/card/august-leetcoding-challenge/551/week-3-august-15th-august-21st/3430/)|
