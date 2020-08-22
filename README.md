@@ -25,3 +25,4 @@
 |19.|Goat Latin|Strings|[Link](https://leetcode.com/explore/challenge/card/august-leetcoding-challenge/551/week-3-august-15th-august-21st/3429/)|
 |20.|Reorder List|Linked List|[Link](https://leetcode.com/explore/challenge/card/august-leetcoding-challenge/551/week-3-august-15th-august-21st/3430/)|
 |21.|Sort Array By Parity|Array|[Link](https://leetcode.com/explore/challenge/card/august-leetcoding-challenge/551/week-3-august-15th-august-21st/3431/)|
+|22.|Random Point in Non-overlapping Rectangles|Vector|[Link](https://leetcode.com/explore/challenge/card/august-leetcoding-challenge/552/week-4-august-22nd-august-28th/3433/)|
