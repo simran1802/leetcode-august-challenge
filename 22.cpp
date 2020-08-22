@@ -1,30 +1,28 @@
 class Solution {
 public:
-    int index;
-    int x, y;
-    vector<vector<int>> rect;
+    vector<pair<int, vector<int>>> weightedRects;
+    long long totalWeight = 0;
+    
     Solution(vector<vector<int>>& rects) {
-        for(int i=0;i<rects.size();i++){
-            if(rects.size()!=0) rect.push_back(rects[i]);
-        }
-        index = 0;
-        x = min(rect[index][0], rect[index][2]);
-        y = min(rect[index][1], rect[index][3]);
+        for (auto& rect : rects) {
+            int area = (rect[2] - rect[0] + 1) * (rect[3] - rect[1] + 1);
+            totalWeight += area;
+            weightedRects.push_back(make_pair(area, rect));
+        }       
     }
     
     vector<int> pick() {
-        vector<int> ans{x, y};
-        int ye = max(rect[index][1], rect[index][3]);
-        int xe = max(rect[index][0], rect[index][2]);
-        if(ye>y) y++;
-        else if(xe>x) {x++; y = min(rect[index][1], rect[index][3]);}
-        else{
-            index++;
-            index%=rect.size();
-            x = min(rect[index][0], rect[index][2]);
-            y = min(rect[index][1], rect[index][3]); 
+        int weight = rand() % (totalWeight + 1);
+        for (auto& entry : weightedRects) {
+            if (weight <= entry.first) {
+                auto& rect = entry.second;
+                int px = rect[0] + rand() % (rect[2] - rect[0] + 1);
+                int py = rect[1] + rand() % (rect[3] - rect[1] + 1);
+                return {px, py};
+            }
+            weight -= entry.first;
         }
-        return ans;
+        return {};
     }
 };
 
