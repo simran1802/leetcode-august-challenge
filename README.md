@@ -27,3 +27,4 @@
 |21.|Sort Array By Parity|Array|[Link](https://leetcode.com/explore/challenge/card/august-leetcoding-challenge/551/week-3-august-15th-august-21st/3431/)|
 |22.|Random Point in Non-overlapping Rectangles|Vector|[Link](https://leetcode.com/explore/challenge/card/august-leetcoding-challenge/552/week-4-august-22nd-august-28th/3433/)|
 |23.|Stream of Characters|Slicing|[Link](https://leetcode.com/explore/challenge/card/august-leetcoding-challenge/552/week-4-august-22nd-august-28th/3434/)|
+|24.|Sum of Left Leaves|DFS|[Link](https://leetcode.com/explore/challenge/card/august-leetcoding-challenge/552/week-4-august-22nd-august-28th/3435/)|
