@@ -31,3 +31,4 @@
 |25.|Minimum Cost For Tickets|Dynamic Programming|[Link](https://leetcode.com/explore/challenge/card/august-leetcoding-challenge/552/week-4-august-22nd-august-28th/3436/)|
 |26.|Fizz Buzz|Vector|[Link](https://leetcode.com/explore/challenge/card/august-leetcoding-challenge/552/week-4-august-22nd-august-28th/3437/)|
 |27.|Find Right Interval|Binary Search|[Link](https://leetcode.com/explore/challenge/card/august-leetcoding-challenge/552/week-4-august-22nd-august-28th/3438/)|
+|28.|Implement Rand10() Using Rand7()|Math|[Link](https://leetcode.com/explore/challenge/card/august-leetcoding-challenge/552/week-4-august-22nd-august-28th/3439/)|
