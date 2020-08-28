@@ -5,7 +5,11 @@ static int num = INT_MAX;
 class Solution {
 public:
     int rand10() {
-        num = num-7;
-        return(num+ rand7())%10 + 1;
+        int rand40 = 40;
+        while(rand40 >= 40){
+            rand40 = (rand7() - 1) * 7 + rand7() - 1;
+            
+        }
+        return 1+ rand40%10;
     }
 };
